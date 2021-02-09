@@ -1,0 +1,35 @@
+
+body {
+    margin: 0;
+    background: #020202;
+    cursor: crosshair;
+    width: auto;
+  }
+  canvas{
+      display:block;
+      position: absolute;
+      top: 20%;
+    }
+  /* h1 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-family: "Source Sans Pro";
+    font-size: 2em;
+    font-weight: 400;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+   */
+   h1{
+    position: absolute;
+    left: 20%;
+    top: 7%;
+    right: 5%;
+    bottom: 5%;
+    z-index: 1;
+    color: #91091e;
+
+   }
